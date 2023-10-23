@@ -16,5 +16,5 @@ variable "private_subnets" {
 }
 
 variable "availability_zones" {
-  default = ["ap_northeast_2"]
+  default = ["ap_northeast_2","ap_northeast-1"]
 }
